@@ -63,8 +63,8 @@ Dreamview is running at http://localhost:8888
 4. Executing Path Planning: restart Dreamview and select “Sunnyvale Big Loop” as the map, enable the “Planning” and “Routing” modules and choose the “Route: Reverse Early Change Lane” option. If the road output shows the vehicle's planned trajectory and it moves forward, it indicates successful project build and run.
 
 ### Outcomes
-<img src="./img/outcomes5.png" alt="Example Image" width="100%">
-<img src="./img/outcomes6.png" alt="Example Image" width="100%">
+<img src="./img/outcomes5.png" alt="Example Image" width="85%">
+<img src="./img/outcomes6.png" alt="Example Image" width="85%">
 
 ### Usage (Option2: OSM Pathfinding)
 The above experiment uses Dreamview for visual path planning demonstration. Below is a guide using OSM (openstreetmap) for visualization.
@@ -95,7 +95,7 @@ python -m SimpleHTTPServer
 Note: Use Mapbox & OpenStreetMap for designing and publishing maps; leaflet is used for interactive map markers, and Bootstrap for responsive front-end design. OSM data can be looked up using specific URLs for polygons, nodes, and multipolygons in the OSM database.
 
 ## Outcomes
-<img src="./img/outcomes7.gif" alt="Example Image" width="100%">
+<img src="./img/outcomes7.gif" alt="Example Image" width="85%">
 
 Click to see [video](https://youtu.be/3sck9b50zp4).
 
