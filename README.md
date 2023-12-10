@@ -94,8 +94,8 @@ python -m SimpleHTTPServer
 ```
 Note: Use Mapbox & OpenStreetMap for designing and publishing maps; leaflet is used for interactive map markers, and Bootstrap for responsive front-end design. OSM data can be looked up using specific URLs for polygons, nodes, and multipolygons in the OSM database.
 
-### Outcomes
-<img src="./img/outcomes7.gif" alt="Example Image" width="80%">
+## Outcomes
+<img src="./img/outcomes7.gif" alt="Example Image" width="100%">
 Click to see [video](https://youtu.be/3sck9b50zp4).
 
 ## Contributing
