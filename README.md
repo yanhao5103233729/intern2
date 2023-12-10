@@ -5,7 +5,7 @@ c++, 2023 Summer Intern Baidu Apollo Autonomous Driving Project at ISCAS, Beijin
 
 
 ## Project Overview
-I worked closely with various teams at Integration Center, ISCAS, to propose a comprehensive solution for Baidu Apollo Autonomous Driving Project as mentioned, linking functionalities of bottom layers, software usage, and date learning, etc., to connect the entire autonomous driving workflow, I Coded, tested, debugged, implemented and documented the following two modules using C++(primary) and Python.
+In 2023 Summer, I worked closely with various teams at Integration Center, [ISCAS](https://youtu.be/3sck9b50zp4/), to propose a comprehensive solution for [Baidu Apollo Autonomous Driving Project](https://github.com/ApolloAuto/apollo) as mentioned, linking functionalities of bottom layers, software usage, and date learning, etc., to connect the entire autonomous driving workflow, I Coded, tested, debugged, implemented and documented the following two modules using C++(primary) and Python.
 
 <img src="./img/flowchart.png" alt="Example Image" width="80%">
 
