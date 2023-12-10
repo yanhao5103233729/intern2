@@ -5,7 +5,14 @@ c++, 2023 Summer Intern Baidu Apollo Autonomous Driving Project at ISCAS, Beijin
 
 
 ## Project Overview
-This project involves the development of a path planning system using high-precision map data. Its primary goal is to implement an efficient algorithm for path planning using protobuf for map data parsing. The system can process various data structures, including kd-trees, to facilitate effective map representation and route calculation.
+The Baidu Apollo Autonomous Driving system is a comprehensive solution to autonomous driving raised by Baidu. It incorporates the entire workflow of unmanned driving and proposes a thorough solution encompassing system infrastructure, software application, and data learning. As is shown below:
+<img src="./img/flowchart.png" alt="Example Image" width="50%">
+
+In order to work closely with various teams at Integration Center, ISCAS, to propose a comprehensive solution for Baidu Apollo Autonomous Driving Project as mentioned, linking functionalities of bottom layers, software usage, and date learning, etc., to connect the entire autonomous driving workflow, I Coded, tested, debugged, implemented and documented the following two modules using C++(primary) and Python.
+
+For HDMap, this module involves the development of a path planning system using high-precision map data. Its primary goal is to implement an efficient algorithm for path planning using protobuf for map data parsing. The system can process various data structures, including kd-trees, to facilitate effective map representation and route calculation.
+
+For Routing, this module involves.. 
 
 ## Objectives and Task Breakdown
 **Goal**: To read high-precision map data and implement a path planning algorithm.
@@ -39,8 +46,8 @@ This project involves the development of a path planning system using high-preci
 
 ## Usage
 1. Compile the C program: ```g++ -o read_basemap read_basemap.cc```
-2. Run the compiled executable: ```./read_basemap```
-3. Follow the on-screen instructions for map parsing, data structuring, map visualization, and route identification.
+2. Run the compiled executable (for example, for HDMap): ```./read_basemap```
+3. Follow the on-screen instructions for map parsing, data structuring, map visualization, and route identification. (for HDMap; see [video](https://youtu.be/3sck9b50zp4) for Routing)
 
 ## Contributing
 To contribute to this project:
