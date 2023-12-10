@@ -1,6 +1,8 @@
 # intern2 [homepage](https://yanhao5103233729.github.io/edu/)
 c++, 2023 Summer Intern Baidu Apollo Autonomous Driving Project at ISCAS, Beijing [[paper](https://drive.google.com/file/d/1QpBO1KFtsDsGNAb7DDbin5JoYx22LSGF/view) | [code](https://github.com/yanhao5103233729/intern2) | [video](https://youtu.be/3sck9b50zp4)]
-<img src="./img/iscas.png" alt="Example Image" width="50%">
+
+<img src="./img/iscas.png" alt="Example Image" width="20%">
+
 
 ## Project Overview
 This project involves the development of a path planning system using high-precision map data. The primary goal is to implement an efficient algorithm for path planning using protobuf for map data parsing. The system processes various data structures, including kd-trees, to facilitate effective map representation and route calculation.
