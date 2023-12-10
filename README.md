@@ -11,8 +11,6 @@ This project involves the development of a path planning system using high-preci
 **Goal**: To read high-precision map data and implement a path planning algorithm.
 
 **Tasks and Outcomes**:
-0. **Programming Languages**: Use C++(primary) and Python for implementation.
-
 1. **Map Parsing**: Utilize protobuf for reading map files.
 <img src="./img/outcomes1.png" alt="Example Image" width="50%">
 
