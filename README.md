@@ -96,7 +96,7 @@ Note: Use Mapbox & OpenStreetMap for designing and publishing maps; leaflet is u
 
 ### Outcomes
 <img src="./img/outcomes7.gif" alt="Example Image" width="80%">
-[video](https://youtu.be/3sck9b50zp4/)
+More details on contributions can be found in the GitHub guide on [video](https://youtu.be/3sck9b50zp4/).
 
 ## Contributing
 To contribute to this project:
